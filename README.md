@@ -23,7 +23,7 @@ Welcome to my Data Analysis Portfolio! Below are some of my key projects, each h
  - Explore Netflix's content trends, including the distribution of genres, content growth over time, and popular content categories.
 
 **Techniques:**
- - Data aggregation, visualization (e.g., bar charts, line graphs), trend analysis.
+ - Data aggregation, exploratory data analysis, visualization (e.g., bar charts, line graphs), trend analysis.
 
 **Outcomes:**
  - Detailed insights into the evolution of Netflix’s catalog, useful for content strategy and recommendation improvements.
